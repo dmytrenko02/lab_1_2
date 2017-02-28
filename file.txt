@@ -2,3 +2,6 @@ first line
 second line
 newbranch line
 local newbranch conflict line 
+newbranch conflict line 
+conflict is colved
+
