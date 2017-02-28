@@ -1,3 +1,4 @@
 first line
 second line
 newbranch line
+local newbranch conflict line 
